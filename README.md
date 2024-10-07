@@ -29,7 +29,7 @@ This is a simple ASP.NET MVC project for managing product inventory. It allows u
 2. Open the project in Visual Studio.
 
 3. Set up the database:
-   - Update the connection string in `web.config`.
+   - Update the connection string in `appsettings.json`.
    - Run migrations to create the database:
      ```bash
      Update-Database
