@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using EfficientInventory.UI.Models;
+using EfficientInventory.Application.Models;
 
-namespace EfficientInventory.UI.Controllers;
+namespace EfficientInventory.Application.Controllers;
 
 public class AuthController : Controller
 {

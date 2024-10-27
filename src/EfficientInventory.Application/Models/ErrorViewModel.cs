@@ -1,4 +1,4 @@
-namespace EfficientInventory.UI.Models;
+namespace EfficientInventory.Application.Models;
 
 public class ErrorViewModel
 {
