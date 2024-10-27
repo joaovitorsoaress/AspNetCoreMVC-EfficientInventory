@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using AspnetCoreMvcFull.Models;
+using EfficientInventory.UI.Models;
 
-namespace AspnetCoreMvcFull.Controllers;
+namespace EfficientInventory.UI.Controllers;
 
 public class UiController : Controller
 {

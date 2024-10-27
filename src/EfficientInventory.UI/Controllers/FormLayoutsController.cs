@@ -1,11 +1,11 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using AspnetCoreMvcFull.Models;
+using EfficientInventory.UI.Models;
 
-namespace AspnetCoreMvcFull.Controllers;
+namespace EfficientInventory.UI.Controllers;
 
 public class FormLayoutsController : Controller
 {
-public IActionResult Horizontal() => View();
-public IActionResult Vertical() => View();
+  public IActionResult Horizontal() => View();
+  public IActionResult Vertical() => View();
 }
